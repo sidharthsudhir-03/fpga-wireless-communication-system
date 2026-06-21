@@ -1,7 +1,7 @@
 # MATLAB Simulation of the Communication System
 
 ## Overview
-This project, part of **ELEC 391**, focuses on the reliable transfer of wireless information over a noisy channel. The system simulates a digital communication link with audio data transmitted through an AWGN channel with Gilbert fading. Our design incorporates key subsystems, including error correction, modulation/demodulation, and a transmitter/receiver pair with a raised cosine filter for pulse shaping.
+This project, focuses on the reliable transfer of wireless information over a noisy channel. The system simulates a digital communication link with audio data transmitted through an AWGN channel with Gilbert fading. Our design incorporates key subsystems, including error correction, modulation/demodulation, and a transmitter/receiver pair with a raised cosine filter for pulse shaping.
 
 ## Objectives
 The project meets the following specifications:
